@@ -11,7 +11,7 @@
 
 ## Screenshots
 
-| Main UI | Export Dialog |
+| Main UI |
 |--------|---------------|
 | ![Main UI](screenshots/main.png)  |
 
